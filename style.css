@@ -44,6 +44,7 @@
   margin-top: 30px;
   margin-left: 148px;
   border-radius:15px;
+  float: left;
 }
 .start-btn:active{
   width: 630px;
@@ -56,7 +57,7 @@
 }
 .text-on{
   margin-left: 200px;
-  margin-top: 50px;
+  margin-top: 150px;
 }
 .text-in{
   margin-left: 200px;
@@ -540,7 +541,7 @@
   margin-right: 20px;
   text-decoration: none;
 }
-.fa-twitter:hover{
+.fa-twitte:hover{
   opacity: 0.5;
 }
 .fa-instagram{
