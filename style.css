@@ -334,6 +334,9 @@
   text-decoration: none;
   color: #000;
 }
+.campany-btn:hover{
+  text-decoration: underline;
+}
 .campany-btn2{
   display: inline-block;
   margin-right: 195px;
@@ -342,11 +345,17 @@
   text-decoration: none;
   color: #000;
 }
+.campany-btn2:hover{
+  text-decoration: underline;
+}
 .campany-btn3{
   display: block;
   font-size: 15px;
   text-decoration: none;
   color: #000;
+}
+.campany-btn3:hover{
+  text-decoration: underline;
 }
 .campany-btnq{
   display: inline-block;
@@ -354,6 +363,9 @@
   left: 35px;
   text-decoration: none;
   color: #000;
+}
+.campany-btnq:hover{
+  text-decoration: underline;
 }
 .campany-all2{
   background-color: #fff;
@@ -369,6 +381,9 @@
   text-decoration: none;
   color: #000;
 }
+.commect-btn:hover{
+  text-decoration: underline;
+}
 .commect-btna{
   display: inline-block;
   margin-top: 10px;
@@ -378,6 +393,9 @@
   position: relative;
   left: 40px;
 }
+.commect-btna:hover{
+  text-decoration: underline;
+}
 .commect-btn2{
   display: inline-block;
   margin-right: 185px;
@@ -386,6 +404,9 @@
   text-decoration: none;
   color: #000;
 }
+.commect-btn2:hover{
+  text-decoration: underline;
+}
 .host-btn{
   display: inline-block;
   margin-right: 180px;
@@ -393,6 +414,9 @@
   font-size: 15px;
   text-decoration: none;
   color: #000;
+}
+.host-btn:hover{
+  text-decoration: underline;
 }
 .host-btna{
   display: inline-block;
@@ -403,10 +427,16 @@
   position: relative;
   left: 610px;
 }
+.host-btna:hover{
+  text-decoration: underline;
+}
 .host-boy{
   position: relative;
   right: 300px;
   top: 20px;
+}
+.host-boy:hover{
+  text-decoration: underline;
 }
 .host-btnb{
   position: relative;
@@ -416,6 +446,9 @@
   font-size: 15px;
   top: 20px;
 }
+.host-btnb:hover{
+  text-decoration: underline;
+}
 .host-btnc{
   position: relative;
   left: -203px;
@@ -423,6 +456,9 @@
   color: #000;
   font-size: 15px;
   top: 20px;
+}
+.host-btnc:hover{
+  text-decoration: underline;
 }
 .host-btnd{
   position: relative;
@@ -432,6 +468,9 @@
   font-size: 15px;
   top: 20px;
 }
+.host-btnd:hover{
+  text-decoration: underline;
+}
 .host-btne{
   display: inline-block;
   margin-right: 180px;
@@ -439,6 +478,9 @@
   font-size: 15px;
   text-decoration: none;
   color: #000;
+}
+.host-btne:hover{
+  text-decoration: underline;
 }
 .campany-all3{
   background-color: #fff;
@@ -454,6 +496,9 @@
   text-decoration: none;
   color: #000;
 }
+.support-btn:hover{
+  text-decoration: underline;
+}
 .support-btna{
   display: inline-block;
   margin-left: 210px;
@@ -462,15 +507,24 @@
   text-decoration: none;
   color: #000;
 }
+.support-btna:hover{
+  text-decoration: underline;
+}
 .footer{
   margin-left: 350px;
 }
 .japan{
   color:black;
 }
+.japan:hover{
+  opacity: 0.5;
+}
 .try{
   color:black;
   margin-left: 30px;
+}
+.try:hover{
+  opacity: 0.5;
 }
 .fa-facebook{
   color: black;
@@ -478,14 +532,23 @@
   margin-right: 20px;
   text-decoration: none;
 }
+.fa-facebook:hover{
+  opacity: 0.5;
+}
 .fa-twitter{
   color: black;
   margin-right: 20px;
   text-decoration: none;
 }
+.fa-twitter:hover{
+  opacity: 0.5;
+}
 .fa-instagram{
   color: black;
   text-decoration: none;
+}
+.fa-instagram:hover{
+  opacity: 0.5;
 }
 .Limited{
   display: inline-block;
@@ -494,6 +557,9 @@
   color: black;
   text-decoration: none;
   font-size: 14px;
+}
+.Limited:hover{
+  text-decoration: underline;
 }
 .reserved{
   text-align: center;
@@ -511,4 +577,7 @@
   margin-right: 20px;
   font-size: 14px;
   padding-bottom: 50px;
+}
+.aaa:hover{
+  text-decoration: underline;
 }
