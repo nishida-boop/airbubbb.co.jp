@@ -337,6 +337,7 @@
 }
 .campany-btn:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .campany-btn2{
   display: inline-block;
@@ -348,6 +349,7 @@
 }
 .campany-btn2:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .campany-btn3{
   display: block;
@@ -357,6 +359,7 @@
 }
 .campany-btn3:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .campany-btnq{
   display: inline-block;
@@ -367,6 +370,7 @@
 }
 .campany-btnq:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .campany-all2{
   background-color: #fff;
@@ -384,6 +388,7 @@
 }
 .commect-btn:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .commect-btna{
   display: inline-block;
@@ -396,6 +401,7 @@
 }
 .commect-btna:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .commect-btn2{
   display: inline-block;
@@ -407,6 +413,7 @@
 }
 .commect-btn2:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btn{
   display: inline-block;
@@ -418,6 +425,7 @@
 }
 .host-btn:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btna{
   display: inline-block;
@@ -430,6 +438,7 @@
 }
 .host-btna:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-boy{
   position: relative;
@@ -438,6 +447,7 @@
 }
 .host-boy:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btnb{
   position: relative;
@@ -449,6 +459,7 @@
 }
 .host-btnb:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btnc{
   position: relative;
@@ -460,6 +471,7 @@
 }
 .host-btnc:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btnd{
   position: relative;
@@ -471,6 +483,7 @@
 }
 .host-btnd:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .host-btne{
   display: inline-block;
@@ -482,6 +495,7 @@
 }
 .host-btne:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .campany-all3{
   background-color: #fff;
@@ -499,6 +513,7 @@
 }
 .support-btn:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .support-btna{
   display: inline-block;
@@ -510,6 +525,7 @@
 }
 .support-btna:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .footer{
   margin-left: 350px;
@@ -561,6 +577,7 @@
 }
 .Limited:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
 .reserved{
   text-align: center;
@@ -581,4 +598,5 @@
 }
 .aaa:hover{
   text-decoration: underline;
+  opacity: 0.7;
 }
